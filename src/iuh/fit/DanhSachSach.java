@@ -42,13 +42,6 @@ public class DanhSachSach {
         dsSach[count ++] = sach;
     }
 
-    private boolean exists(Sach sach) {
-
-
-
-        return false;
-    }
-
 //    + getTongTienSachGK(): double
     public double getTongTienSachGK(){
         double tongTien = 0.0;
